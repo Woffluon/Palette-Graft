@@ -71,7 +71,7 @@
 
 ```bash
 # Clone the repository / Depoyu klonlayın
-git clone https://github.com/efe/palette-graft
+git clone https://github.com/woffluon/palette-graft
 
 # Install dependencies / Bağımlılıkları yükleyin
 npm install
